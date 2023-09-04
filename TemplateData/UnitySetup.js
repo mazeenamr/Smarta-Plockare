@@ -28,9 +28,9 @@ function unityShowBanner(msg, type) {
 var buildUrl = "Build";
 var loaderUrl = buildUrl + "/SmartaPlockare.loader.js";
 var config = {
-    dataUrl: buildUrl + "/SmartaPlockare.data.gz",
-    frameworkUrl: buildUrl + "/SmartaPlockare.framework.js.gz",
-    codeUrl: buildUrl + "/SmartaPlockare.wasm.gz",
+    dataUrl: buildUrl + "/SmartaPlockare.data",
+    frameworkUrl: buildUrl + "/SmartaPlockare.framework.js",
+    codeUrl: buildUrl + "/SmartaPlockare.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "Grid-tutorial",
