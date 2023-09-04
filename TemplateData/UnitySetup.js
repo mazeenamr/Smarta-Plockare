@@ -26,11 +26,11 @@ function unityShowBanner(msg, type) {
 }
 
 var buildUrl = "Build";
-var loaderUrl = buildUrl + "/Smarta Plockare.loader.js";
+var loaderUrl = buildUrl + "/SmartaPlockare.loader.js";
 var config = {
-    dataUrl: buildUrl + "/Smarta Plockare.data.br",
-    frameworkUrl: buildUrl + "/Smarta Plockare.framework.js.br",
-    codeUrl: buildUrl + "/Smarta Plockare.wasm.br",
+    dataUrl: buildUrl + "/SmartaPlockare.data.br",
+    frameworkUrl: buildUrl + "/SmartaPlockare.framework.js.br",
+    codeUrl: buildUrl + "/SmartaPlockare.wasm.br",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "Grid-tutorial",
